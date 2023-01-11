@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+    background-color: rgb(250, 243, 243);
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 15px;
+    margin-bottom: 30px;
+
+}
+
+nav ul {
+    text-decoration: none;
+}
+nav ul li {
+    padding: 5px;
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    background-color: rgb(250, 243, 243);
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 5px;
+    font-weight: bold;
+    margin-top: 30px;
+
+}
+
